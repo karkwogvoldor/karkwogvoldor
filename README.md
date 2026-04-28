@@ -83,21 +83,16 @@ Nem só de código vive o dev! Quando não estou buildando APIs, você provavelm
 ## 🤝 Contatos
 
 <div style="display: flex; gap: 10px;">
-  <a href="https://www.linkedin.com/in/jer%C3%B4nimo-eduardo-fuck-798870406/" target="_blank">
+  <a href="https://www.linkedin.com/in/seu-perfil" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/karkwogvoldor">
+
+  <a href="https://github.com/karkwogvoldor" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="jeronimoef7@gmail.com">
+
+  <a href="mailto:jeronimoef7@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </div>
 
----
-
-## 📊 Minhas Estatísticas
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karkwogvoldor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas Gerais" /><br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karkwogvoldor&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
-</div>
