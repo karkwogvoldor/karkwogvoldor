@@ -39,21 +39,39 @@
 
 ---
 
-## 🚀 Projetos em Destaque
+🚀 Projetos em Destaque
+⚽ Brasileirão 2026 API
+Uma plataforma completa para acompanhamento do Campeonato Brasileiro, focada em fornecer dados estruturados para fãs e desenvolvedores. O projeto centraliza informações de clubes, elencos e estatísticas em tempo real.
 
-### ⚽ **Brasileirão 2026 API**
-Aplicação para gerenciamento de informações dos times da Série A de 2026.
-- **Techs:** FastAPI, PostgreSQL, Jinja2.
+O que faz: Gerencia o banco de dados de times da Série A, oferecendo endpoints rápidos para consulta de tabelas e detalhes dos clubes.
 
-### 🌊 **Avatar Lore Tracker (Avatar7Days)**
-Projeto focado no processamento e tradução de informações do universo de Avatar.
-- **Techs:** Django, Python, JSON Processing.
-- **Destaque:** Migração de dados de personagens e afiliações para banco de dados.
+🌐 **[Clique aqui para acessar](https://footballbrasileiraoupdate-production.up.railway.app)**
 
-### 🎬 **Netflix Clone**
-Réplica visual da tela de seleção de perfis da Netflix.
-- **Techs:** HTML5, CSS3.
-- **Foco:** Prática de layouts modernos e design responsivo.
+Deploy & Infra:
+
+Hospedagem: Railway (ou Render) com integração contínua via GitHub Actions.
+
+Database: PostgreSQL gerenciado na nuvem.
+
+Frontend Intermediário: Templates dinâmicos com Jinja2.
+
+🌊 Avatar Lore Tracker (Avatar7Days)
+Um sistema de gestão de conhecimento focado na obra Avatar: A Lenda de Aang/Korra. O projeto resolve o problema de organizar informações dispersas sobre personagens e suas complexas afiliações.
+
+O que faz: Processa grandes volumes de dados via JSON, automatizando a tradução de termos técnicos da lore e populando o banco de dados de forma relacional.
+
+Destaque Técnico: Implementação de lógica de migração complexa e uso do Django Admin para curadoria de conteúdo.
+
+Stack: Django, Python e PostgreSQL.
+
+🎬 Netflix Clone (UI/UX Study)
+Desenvolvimento de interface focado na experiência do usuário e na fidelidade visual, replicando um dos fluxos mais icônicos do streaming: a seleção de perfis.
+
+O que faz: Simula a interação de entrada do usuário, garantindo responsividade em dispositivos móveis e desktop, com foco em CSS moderno (Flexbox/Grid).
+
+Aprendizado: Domínio de semântica HTML5 e animações de transição suaves.
+
+Stack: HTML5, CSS3 e JavaScript.
 
 ---
 
