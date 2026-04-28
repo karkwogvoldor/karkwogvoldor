@@ -82,17 +82,26 @@ Nem só de código vive o dev! Quando não estou buildando APIs, você provavelm
 
 ## 🤝 Contatos
 
-<div style="display: flex; gap: 10px;">
-  <a href="https://www.linkedin.com/in/seu-perfil" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+<div style="display: flex; flex-direction: column; gap: 15px;">
+  <div style="display: flex; align-items: center; gap: 10px;">
+    <a href="https://www.linkedin.com/in/SEU_LINK_AQUI" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <span>/in/seu-usuario-linkedin</span>
+  </div>
 
-  <a href="https://github.com/karkwogvoldor" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
+  <div style="display: flex; align-items: center; gap: 10px;">
+    <a href="mailto:jeronimoef7@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+    <code>jeronimoef7@gmail.com</code>
+  </div>
 
-  <a href="mailto:jeronimoef7@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
+  <div style="display: flex; align-items: center; gap: 10px;">
+    <a href="https://github.com/karkwogvoldor" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
+    <span>github.com/karkwogvoldor</span>
+  </div>
 </div>
 
