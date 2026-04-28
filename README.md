@@ -83,7 +83,7 @@ Nem só de código vive o dev! Quando não estou buildando APIs, você provavelm
 ## 🤝 Contatos
 
 <div style="display: flex; gap: 10px;">
-  <a href="https://www.linkedin.com/in/seu-perfil" target="_blank">
+  <a href="https://www.linkedin.com/in/jeronimo-eduardo-fuck/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 
