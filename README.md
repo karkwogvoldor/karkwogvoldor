@@ -84,7 +84,7 @@ Nem só de código vive o dev! Quando não estou buildando APIs, você provavelm
 
 <div style="display: flex; flex-direction: column; gap: 15px;">
   <div style="display: flex; align-items: center; gap: 10px;">
-    <a href="https://www.linkedin.com/in/SEU_LINK_AQUI" target="_blank">
+    <a href="https://www.linkedin.com/in/jer%C3%B4nimo-eduardo-fuck-798870406/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <span>/in/seu-usuario-linkedin</span>
