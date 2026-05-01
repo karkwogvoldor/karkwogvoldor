@@ -45,7 +45,7 @@
 Uma plataforma completa para acompanhamento do Campeonato Brasileiro, focada em fornecer dados estruturados para fãs e desenvolvedores. O projeto centraliza informações de clubes, elencos e estatísticas em tempo real.
 
 * **O que faz:** Gerencia o banco de dados de times da Série A, oferecendo endpoints rápidos para consulta de tabelas e detalhes dos clubes.
-* **Status:** 🚀 **[ACESSAR PROJETO AO VIVO](https://footballbrasileiraoupdate-production.up.railway.app)**
+* **Status:** 🚀 **[clique aqui para acessar](https://footballbrasileiraoupdate-production.up.railway.app)**
 * **Deploy & Infra:**
     * **Hospedagem:** Render (com integração contínua via GitHub).
     * **Database:** PostgreSQL gerenciado na nuvem.
@@ -58,7 +58,7 @@ Uma plataforma completa para acompanhamento do Campeonato Brasileiro, focada em 
 Um sistema de gestão de conhecimento focado na obra *Avatar: A Lenda de Aang/Korra*. O projeto resolve o problema de organizar informações dispersas sobre personagens e suas complexas afiliações.
 ## 🔗 Deploy Oficial
 Acesse o projeto online:  
-[https://avatar7days-production.up.railway.app/](https://avatar7days-production.up.railway.app/)
+[clique aqui para acessar](https://avatar7days-production.up.railway.app/)
 
 * **O que faz:** Processa grandes volumes de dados via JSON, automatizando a tradução de termos técnicos da *lore* e populando o banco de dados de forma relacional.
 * **Destaque Técnico:** Implementação de lógica de migração complexa e uso do Django Admin para curadoria de conteúdo de forma intuitiva.
@@ -67,6 +67,7 @@ Acesse o projeto online:
 ---
 
 ### 🎬 **Netflix Clone (UI/UX Study)**
+[clique aqui para acessar](https://karkwogvoldor.github.io/netflix-alura-imersao/)
 Desenvolvimento de interface focado na experiência do usuário e na fidelidade visual, replicando um dos fluxos mais icônicos do streaming: a seleção de perfis.
 
 * **O que faz:** Simula a interação de entrada do usuário, garantindo responsividade em dispositivos móveis e desktop, com foco em layouts modernos.
