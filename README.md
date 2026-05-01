@@ -68,6 +68,7 @@ Acesse o projeto online:
 
 ### 🎬 **Netflix Clone (UI/UX Study)**
 [clique aqui para acessar](https://karkwogvoldor.github.io/netflix-alura-imersao/)
+
 Desenvolvimento de interface focado na experiência do usuário e na fidelidade visual, replicando um dos fluxos mais icônicos do streaming: a seleção de perfis.
 
 * **O que faz:** Simula a interação de entrada do usuário, garantindo responsividade em dispositivos móveis e desktop, com foco em layouts modernos.
