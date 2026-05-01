@@ -42,7 +42,7 @@
 ## 🚀 Projetos em Destaque
 
 ### ⚽ **[Brasileirão 2026 API](https://footballbrasileiraoupdate-production.up.railway.app)**
-Uma plataforma completa para acompanhamento do Campeonato Brasileiro, focada em fornecer dados estruturados para fãs e desenvolvedores. O projeto centraliza informações de clubes, elencos e estatísticas em tempo real.
+Uma plataforma completa para acompanhamento do Campeonato Brasileiro, focada em fornecer dados estruturados para fãs e desenvolvedores. O projeto centraliza informações de clubes, elencos e formações.
 
 * **O que faz:** Gerencia o banco de dados de times da Série A, oferecendo endpoints rápidos para consulta de tabelas e detalhes dos clubes.
 * **Status:** 🚀 **[clique aqui para acessar](https://footballbrasileiraoupdate-production.up.railway.app)**
