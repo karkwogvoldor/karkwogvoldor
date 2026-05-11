@@ -56,7 +56,6 @@ Uma plataforma completa para acompanhamento do Campeonato Brasileiro, focada em 
 
 ### 🌊 **Avatar Lore Tracker (Avatar7Days)**
 Um sistema de gestão de conhecimento focado na obra *Avatar: A Lenda de Aang/Korra*. O projeto resolve o problema de organizar informações dispersas sobre personagens e suas complexas afiliações.
-## 🔗 Deploy Oficial
 Acesse o projeto online:  
 * **Status:** 🚀 [clique aqui para acessar](https://avatar7days-production.up.railway.app/)
 
