@@ -39,6 +39,8 @@
 
 ---
 
+🔗 https://jeronimoportfolio.vercel.app
+
 ## 🚀 Projetos em Destaque
 
 ### ⚽ **[Brasileirão 2026 API](https://footballbrasileiraoupdate-production.up.railway.app)**
