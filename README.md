@@ -2,9 +2,9 @@
 
 ### **Desenvolvedor Full-Stack em Construção | Python Enthusiast | Backend Focused**
 
-## 📊 Minhas Contribuições
+### 📊 Meu Histórico de Contribuições
 
-![Gráfico de Contribuições](https://ghchart.rshah.org/2b4c7e/karkwogvoldor)
+![Gráfico Clássico do GitHub](https://github-readme-activity-graph.vercel.app/graph?username=karkwogvoldor&theme=github-light)
 ---
 
 <div align="center">
