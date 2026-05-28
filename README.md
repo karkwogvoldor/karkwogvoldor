@@ -2,11 +2,6 @@
 
 ### **Desenvolvedor Full-Stack em Construção | Python Enthusiast | Backend Focused**
 
-### 📊 Meu Histórico de Contribuições
-
-![Gráfico Clássico do GitHub](https://github-readme-activity-graph.vercel.app/graph?username=karkwogvoldor&theme=github-light)
----
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=karkwogvoldor&theme=tokyonight" alt="GitHub Streak" />
 </div>
