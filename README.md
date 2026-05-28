@@ -2,6 +2,9 @@
 
 ### **Desenvolvedor Full-Stack em Construção | Python Enthusiast | Backend Focused**
 
+## 📊 Minhas Contribuições
+
+![Gráfico de Contribuições](https://ghchart.rshah.org/2b4c7e/karkwogvoldor)
 ---
 
 <div align="center">
