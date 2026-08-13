@@ -1,10 +1,6 @@
 # 👋 Olá, eu sou o Jerônimo (karkwogvoldor)
 
-### **Desenvolvedor Full-Stack em Construção | Python Enthusiast | Backend Focused**
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=karkwogvoldor&theme=tokyonight" alt="GitHub Streak" />
-</div>
+### **Desenvolvedor Full-Stack | Python Enthusiast | Backend Focused**
 
 ---
 
@@ -46,7 +42,6 @@
 Uma plataforma completa para acompanhamento do Campeonato Brasileiro, focada em fornecer dados estruturados para fãs e desenvolvedores. O projeto centraliza informações de clubes, elencos e formações.
 
 * **O que faz:** Gerencia o banco de dados de times da Série A, oferecendo endpoints rápidos para consulta de tabelas e detalhes dos clubes.
-* **Status:** 🚀 **[clique aqui para acessar](https://footballbrasileiraoupdate-production.up.railway.app)**
 * **Deploy & Infra:**
     * **Hospedagem:** Render (com integração contínua via GitHub).
     * **Database:** PostgreSQL gerenciado na nuvem.
@@ -57,8 +52,6 @@ Uma plataforma completa para acompanhamento do Campeonato Brasileiro, focada em 
 
 ### 🌊 **Avatar Lore Tracker (Avatar7Days)**
 Um sistema de gestão de conhecimento focado na obra *Avatar: A Lenda de Aang/Korra*. O projeto resolve o problema de organizar informações dispersas sobre personagens e suas complexas afiliações.
-Acesse o projeto online:  
-* **Status:** 🚀 [clique aqui para acessar](https://avatar7days-production.up.railway.app/)
 
 * **O que faz:** Processa grandes volumes de dados via JSON, automatizando a tradução de termos técnicos da *lore* e populando o banco de dados de forma relacional.
 * **Destaque Técnico:** Implementação de lógica de migração complexa e uso do Django Admin para curadoria de conteúdo de forma intuitiva.
